@@ -7,7 +7,7 @@ import com.cts.tsp.dao.GenericDAO;
 import com.cts.tsp.domain.DeviceInfo;
 
 /**
- * @author administrator
+ * @author   administrator   
  *
  */
 public interface DeviceDAO extends GenericDAO<DeviceInfo, String>{
